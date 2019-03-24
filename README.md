@@ -20,5 +20,7 @@
   - https://www.techotopia.com/index.php/Creating_a_CentOS_6_KVM_Networked_Bridge_Interface
   - reboot the machine 
   - create guest vms on the node.
-  - Make sure you select the VCN is selected in the display options instead of spice before installing the gues
+  - Make sure you select the VCN is selected in the display options instead of spice before installing the guest
+7. Login to the new guest machine
+  - Login can be done by using username and the hostname
   
